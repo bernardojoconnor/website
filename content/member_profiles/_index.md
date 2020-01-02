@@ -353,4 +353,11 @@ Community ecology and molecular epidemiology are my main interests. I routinely 
 
 ---
 
+## Bernardo J. O'Connor
 
+{{< twitter FacelliEcoLab >}}
+{{< facebook Terrestrial Plant Ecology Lab >}}
+{{< github bernardojoconnor >}}
+
+PhD candidate at The University of Adelaide. Ecoparasitology, Community Ecology, Indirect effects, Ecological interactions
+---
